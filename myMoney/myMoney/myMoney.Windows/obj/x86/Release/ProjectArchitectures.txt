@@ -1,0 +1,1 @@
+C:\Data\Programming\myMoney\myMoney\myMoney.Windows\myMoney.Windows.csproj;x86
